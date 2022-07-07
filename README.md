@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm dbomdev</h1>
 
-<h3 align="center">A passionate developer from Poland</h3>
-<h4 align="center">Currently learning VueJS</h4>
+<h3 align="center">A passionate developer from Switzerland</h3>
+<h4 align="center">Currently learning C# & WPF</h4>
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=dbomdev&color=dcc300">
@@ -9,9 +9,9 @@
 
 <h2 align="center">Stats</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbomdev&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.75rem&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbomdev&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.75rem&layout=compact">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbomdev&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.75rem">
+<img src="https://github-readme-stats.vercel.app/api?username=dbomdev&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.75rem">
 
 <h2 align="center">Known tools</h2>
 
