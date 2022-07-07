@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dbomdev</h1>
+<h1 align="center">Hi 👋, I'm DbomDev</h1>
 
 <h3 align="center">A passionate developer from Switzerland</h3>
 <h4 align="center">Currently learning C# & WPF</h4>
